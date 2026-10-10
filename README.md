@@ -32,7 +32,8 @@ and how the scheduler finds due reminders and sends the email.
 | DELETE | /api/reminders/{id} | Delete a reminder |
 
 ## Example Request
-(paste a sample POST body)
+<img width="1277" height="805" alt="image" src="https://github.com/user-attachments/assets/3017b68d-5b0e-4fae-b18f-72ea6d3335ec" />
+
 
 ## Known Limitations
 - (be honest, e.g. status SENT means the mail server accepted it, not that it was delivered)
